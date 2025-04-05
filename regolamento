@@ -1,1 +1,14 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>FAQ interne</title>
+    <style>
+      body { font-family: sans-serif; padding: 1em; }
+    </style>
+  </head>
+  <body>
+    <h2>Domande frequenti</h2>
+    <p>Questa è una FAQ integrata in Telegram.</p>
+  </body>
+</html>
